@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fanged Games - careful, they bite</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Fanged Games - careful, they bite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2016 08:14:56 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to play safe</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/how-to-play-safe/</link>
+      <pubDate>Sun, 03 Jul 2016 08:14:56 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/how-to-play-safe/</guid>
+      <description>&lt;p&gt;You should be careful while playing&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
