@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fanged Games - careful, they bite</title>
+    <title>Fanged Games</title>
     <link>http://www.fangedgames.com/</link>
-    <description>Recent content on Fanged Games - careful, they bite</description>
+    <description>Recent content on Fanged Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jul 2016 08:14:56 +0200</lastBuildDate>
