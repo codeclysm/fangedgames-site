@@ -6,8 +6,117 @@
     <description>Recent content on Fanged Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jul 2016 08:14:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jul 2016 14:24:17 +0200</lastBuildDate>
     <atom:link href="http://www.fangedgames.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Turmoil: first draft</title>
+      <link>http://www.fangedgames.com/post/turmoil-first-draft/</link>
+      <pubDate>Mon, 04 Jul 2016 14:24:17 +0200</pubDate>
+      
+      <guid>http://www.fangedgames.com/post/turmoil-first-draft/</guid>
+      <description>
+
+&lt;p&gt;Turmoil is an unofficial fork of &lt;a href=&#34;http://buriedwithoutceremony.com/monsterhearts/&#34;&gt;Monsterhearts&lt;/a&gt;.  It keeps most of the interesting bits but it changes profoundly the way they behave. It takes inspiration from &lt;a href=&#34;http://www.magpiegames.com/masks/&#34;&gt;Masks&lt;/a&gt; and &lt;a href=&#34;http://www.angelfire.com/indie/btw/games/rustbelt.html&#34;&gt;the Rustbelt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the core belief behind this rehaul is that players should never lose completely control over the game, even if their characters are helpless, but that control can be relinquished in some measure in order to make the game interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BE WARY: THIS IS NOT THE SECOND EDITION OF MONSTERHEARTS AND THIS CONTENT IS JUST FAN CONTENT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conditions:698e58a815953b650f646ce2d71b8858&#34;&gt;Conditions&lt;/h2&gt;
+
+&lt;p&gt;Conditions are completely different from Monsterhearts. I liked the idea of conditions that weakened you such as in masks, but I wanted them more crippling. The characters don&amp;rsquo;t really know how to manage them, so they are big obstacles.&lt;/p&gt;
+
+&lt;p&gt;There are easier way to get rid of them, mostly by giving control over your character to someone else, such as in the case of strings.&lt;/p&gt;
+
+&lt;p&gt;Conditions aren&amp;rsquo;t solely triggered by moves, but by the fiction as well. It&amp;rsquo;s common to ask &amp;ldquo;wait, are you angry?&amp;rdquo; to make the player realize they should take the condition. The player is always the only one who can decide what conditions to take, but be honest with yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;While you are turned on&lt;/strong&gt; you can&amp;rsquo;t spend strings. To remove it act on your impulses or give a hot string to someone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;While you are angry&lt;/strong&gt; you can&amp;rsquo;t flee or make a move on someone. To remove it hurt someone or bottle it up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;While you are hurt&lt;/strong&gt; you can&amp;rsquo;t make 10+ on moves. To remove it seek help and heal or become your darkest self. If you were to become hurt while you already are hurt you become broken.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;While you are broken&lt;/strong&gt; you can&amp;rsquo;t make moves at all. To remove it seek help and heal or become your darkest self.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;While you are scared&lt;/strong&gt; you can&amp;rsquo;t gain new strings. To remove it flee or give a cold string to someone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;While you are uneasy&lt;/strong&gt; you can&amp;rsquo;t make a move on someone or shut someone down. To remove it flee or fling yourself into easy relief.&lt;/p&gt;
+
+&lt;h2 id=&#34;basic-moves:698e58a815953b650f646ce2d71b8858&#34;&gt;Basic moves&lt;/h2&gt;
+
+&lt;p&gt;Most of the basic moves are used to provoke the other character into feeling something, while other are used to change the fictional positioning of the character.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you make a move on someone&lt;/strong&gt; roll+hot. On a success they choose if they are turned on or uneasy. On a 7-9 you are turned on or uneasy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you shut someone down&lt;/strong&gt; roll +cold. On a success they choose if they are hurt or angry. On a 10+ they lose whatever hot string they had on you&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you lash out&lt;/strong&gt; roll+volatile. On a 10+ they choose two. On a 7-9 they choose one.
+- they aren&amp;rsquo;t scared
+- they aren&amp;rsquo;t hurt
+- you are hurt&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you flee&lt;/strong&gt; roll +volatile. On a 7-9 choose one. On a 10+ choose two.
+- it&amp;rsquo;s not a big scene
+- you don&amp;rsquo;t give a cold string to who you&amp;rsquo;re fleeing from&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you manipulate someone with a threat&lt;/strong&gt; roll+cold. On a 7-9 they must choose 1. On a 10+ they must choose 2
+- they do what you want
+- they are scared
+- you have to make good on your threat&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;when you manipulate someone with a promise&lt;/strong&gt; roll +hot. On a 7-9 they must choose 1. On a 10+ they must choose 2.
+- they do what you want
+- they are uneasy
+- you have to give something now&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you gaze into the abyss&lt;/strong&gt; roll+dark. The abyss will always answer. On a 7-9 choose 2, on a 10+ choose three.
+- It answers to what you asked
+- It cures you from a condition
+- It makes you happy
+- you are not uneasy when it&amp;rsquo;s finished.&lt;/p&gt;
+
+&lt;h2 id=&#34;strings:698e58a815953b650f646ce2d71b8858&#34;&gt;Strings&lt;/h2&gt;
+
+&lt;p&gt;There are two kind of strings, used to influence people in different ways. You can spend them as currency to make the actions against the people who gave you the string.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hot string&lt;/strong&gt;
+- Make a move on someone without rolling as if you made 7-9
+- Manipulate someone with a promise
+- ask a question from this list
+  - what do you like about me?
+  - what&amp;rsquo;s stopping you from being with me?
+  - what&amp;rsquo;s your greatest desire?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cold string&lt;/strong&gt;
+- Shut someone down without rolling as if you made 7-9
+- Manipulate someone with a threat
+- ask a question from this list
+  - what&amp;rsquo;s your greatest fear?
+  - how can I force you to ____?
+  - what do you really think of me?&lt;/p&gt;
+
+&lt;h2 id=&#34;darkest-self:698e58a815953b650f646ce2d71b8858&#34;&gt;Darkest self&lt;/h2&gt;
+
+&lt;p&gt;The darkest self is a Condition unique to a certain Skin, that changes the rules making it easier to behave in a certain manner.&lt;/p&gt;
+
+&lt;p&gt;A couple of examples:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vampire&lt;/strong&gt;. While you are your darkest self nobody can use a string against you, and you can use hot strings as cold strings and vice-versa. You exit your darkest self when someone more powerful than you puts you in your place.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Werewolf&lt;/strong&gt;. While you are your darkest self you choose whether someone is hurt or afraid when you lash out. When you make a move on someone the option &amp;ldquo;uneasy&amp;rdquo; is replaced with &amp;ldquo;afraid&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;special-moves:698e58a815953b650f646ce2d71b8858&#34;&gt;Special moves&lt;/h2&gt;
+
+&lt;p&gt;Special moves describe the messy relationship a Skin has with others. It may involve sex or romance or whatever interpretation the player gives.&lt;/p&gt;
+
+&lt;p&gt;A couple of examples:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vampire&lt;/strong&gt;: when you deflect or refuse to answer questions about yourself gain 1xp. When you open your hearth to someone lose every string you possess.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Werewolf&lt;/strong&gt;: when you claim someone as your own, they can summon you at their side whenever they want, until you claim someone else.﻿&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The roleplaying gloves</title>
