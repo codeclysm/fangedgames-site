@@ -28,19 +28,25 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;You get a Clique. It&amp;rsquo;s usually half a dozen close friends who look up at you.&lt;/p&gt;
 
-&lt;p&gt;Choose 2 perks:
-- They are a lot (like a dozen)
-- They can defend themselves (they&amp;rsquo;re armed or trained)
-- They know people (who can sell them the cool drugs, or get them into the hot clubs)
-- They share something (they are part of the same team or band)
-- They are as family (they are ready to fight for each other)&lt;/p&gt;
+&lt;p&gt;Choose 2 perks:&lt;/p&gt;
 
-&lt;p&gt;Choose 2 downsides:
-- They are few (like 2 or 3)
-- They are dangerous (they have no problem with violence and crime)
-- They are scorned (by other popular groups)
-- They are different from you (in a significant way)
-- They need something (from you, specifically)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They are a lot (like a dozen)&lt;/li&gt;
+&lt;li&gt;They can defend themselves (they&amp;rsquo;re armed or trained)&lt;/li&gt;
+&lt;li&gt;They know people (who can sell them the cool drugs, or get them into the hot clubs)&lt;/li&gt;
+&lt;li&gt;They share something (they are part of the same team or band)&lt;/li&gt;
+&lt;li&gt;They are as family (they are ready to fight for each other)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Choose 2 downsides:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They are few (like 2 or 3)&lt;/li&gt;
+&lt;li&gt;They are dangerous (they have no problem with violence and crime)&lt;/li&gt;
+&lt;li&gt;They are scorned (by other popular groups)&lt;/li&gt;
+&lt;li&gt;They are different from you (in a significant way)&lt;/li&gt;
+&lt;li&gt;They need something (from you, specifically)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Choose 2 moves&lt;/p&gt;
 
@@ -55,12 +61,15 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Puppeteer&lt;/strong&gt;: When you ask someone in your clique to do something for you, roll +Hot. On a 7-9, they choose whether to do it or be Uneasy. On a 10+ they choose whether to do it or be Hurt.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Streaming&lt;/strong&gt;: When you probe the mind of someone in your clique, roll +Dark. On a 7-9, ask 1. On a 10+, ask 3:
-- What do you think about ____?
-- What&amp;rsquo;s your greates fear?
-- What&amp;rsquo;s your greatest dream?
-- What&amp;rsquo;s your beef against ____?
-- What&amp;rsquo;s your stake in ____?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Streaming&lt;/strong&gt;: When you probe the mind of someone in your clique, roll +Dark. On a 7-9, ask 1. On a 10+, ask 3:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What do you think about ____?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your greates fear?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your greatest dream?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your beef against ____?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your stake in ____?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;On a miss, they can ask you 3 questions. You must answer truthfully.&lt;/p&gt;
 
@@ -150,20 +159,26 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Growing Pains&lt;/strong&gt;: When you fail to protect your friends, mark experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Cold Blood&lt;/strong&gt;: When you gather your courage, you can roll+Cold. On a 10+ choose 3, On a 7-9 choose 1.
-- You aren&amp;rsquo;t scared anymore
-- You gain +1 to your next roll
-- You gain a cold string on the scariest person present
-- You can ask a question about the situation to the MC (MC must answer truthfully)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cold Blood&lt;/strong&gt;: When you gather your courage, you can roll+Cold. On a 10+ choose 3, On a 7-9 choose 1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You aren&amp;rsquo;t scared anymore&lt;/li&gt;
+&lt;li&gt;You gain +1 to your next roll&lt;/li&gt;
+&lt;li&gt;You gain a cold string on the scariest person present&lt;/li&gt;
+&lt;li&gt;You can ask a question about the situation to the MC (MC must answer truthfully)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Take the blow&lt;/strong&gt;: When you leap into the way and take the blow instead of someone else, roll +Volatile. On a success you are hurt and they&amp;rsquo;re not. On a 10+ you can choose to be Scared instead of Hurt.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Light the way&lt;/strong&gt;: Whenever your friends follow through on your commands or your lead, they can use the Cold Blood Move (even if you don&amp;rsquo;t have it)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;To the books&lt;/strong&gt;: When you research a way to fight a threat, roll with the number of people assisting you. On a 10+, choose 2. On a 7-9, choose 1.
-- Ask the MC a question (MC must answer truthfully)
-- Gain a cold string on your enemy
-- You aren&amp;rsquo;t uneasy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To the books&lt;/strong&gt;: When you research a way to fight a threat, roll with the number of people assisting you. On a 10+, choose 2. On a 7-9, choose 1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ask the MC a question (MC must answer truthfully)&lt;/li&gt;
+&lt;li&gt;Gain a cold string on your enemy&lt;/li&gt;
+&lt;li&gt;You aren&amp;rsquo;t uneasy.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;special-move:eb106ce578625776e086307f4ada4a20&#34;&gt;Special move&lt;/h2&gt;
 
@@ -224,50 +239,77 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;When you shut someone down&lt;/strong&gt; roll +cold. On a success they choose if they are hurt or angry. On a 10+ they lose whatever hot string they had on you&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;When you lash out&lt;/strong&gt; roll+volatile. On a 10+ they choose two. On a 7-9 they choose one.
-- they aren&amp;rsquo;t scared
-- they aren&amp;rsquo;t hurt
-- you are hurt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you lash out&lt;/strong&gt; roll+volatile. On a 10+ they choose two. On a 7-9 they choose one.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;When you flee&lt;/strong&gt; roll +volatile. On a 7-9 choose one. On a 10+ choose two.
-- it&amp;rsquo;s not a big scene
-- you don&amp;rsquo;t give a cold string to who you&amp;rsquo;re fleeing from&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;they aren&amp;rsquo;t scared&lt;/li&gt;
+&lt;li&gt;they aren&amp;rsquo;t hurt&lt;/li&gt;
+&lt;li&gt;you are hurt&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;When you manipulate someone with a threat&lt;/strong&gt; roll+cold. On a 7-9 they must choose 1. On a 10+ they must choose 2
-- they do what you want
-- they are scared
-- you have to make good on your threat&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you flee&lt;/strong&gt; roll +volatile. On a 7-9 choose one. On a 10+ choose two.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;when you manipulate someone with a promise&lt;/strong&gt; roll +hot. On a 7-9 they must choose 1. On a 10+ they must choose 2.
-- they do what you want
-- they are uneasy
-- you have to give something now&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it&amp;rsquo;s not a big scene&lt;/li&gt;
+&lt;li&gt;you don&amp;rsquo;t give a cold string to who you&amp;rsquo;re fleeing from&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;When you gaze into the abyss&lt;/strong&gt; roll+dark. The abyss will always answer. On a 7-9 choose 2, on a 10+ choose three.
-- It answers to what you asked
-- It cures you from a condition
-- It makes you happy
-- you are not uneasy when it&amp;rsquo;s finished.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you manipulate someone with a threat&lt;/strong&gt; roll+cold. On a 7-9 they must choose 1. On a 10+ they must choose 2&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;they do what you want&lt;/li&gt;
+&lt;li&gt;they are scared&lt;/li&gt;
+&lt;li&gt;you have to make good on your threat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;when you manipulate someone with a promise&lt;/strong&gt; roll +hot. On a 7-9 they must choose 1. On a 10+ they must choose 2.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;they do what you want&lt;/li&gt;
+&lt;li&gt;they are uneasy&lt;/li&gt;
+&lt;li&gt;you have to give something now&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;When you gaze into the abyss&lt;/strong&gt; roll+dark. The abyss will always answer. On a 7-9 choose 2, on a 10+ choose three.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It answers to what you asked&lt;/li&gt;
+&lt;li&gt;It cures you from a condition&lt;/li&gt;
+&lt;li&gt;It makes you happy&lt;/li&gt;
+&lt;li&gt;you are not uneasy when it&amp;rsquo;s finished.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;strings:698e58a815953b650f646ce2d71b8858&#34;&gt;Strings&lt;/h2&gt;
 
 &lt;p&gt;There are two kind of strings, used to influence people in different ways. You can spend them as currency to make the actions against the people who gave you the string.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Hot string&lt;/strong&gt;
-- Make a move on someone without rolling as if you made 7-9
-- Manipulate someone with a promise
-- ask a question from this list
-  - what do you like about me?
-  - what&amp;rsquo;s stopping you from being with me?
-  - what&amp;rsquo;s your greatest desire?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hot string&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Cold string&lt;/strong&gt;
-- Shut someone down without rolling as if you made 7-9
-- Manipulate someone with a threat
-- ask a question from this list
-  - what&amp;rsquo;s your greatest fear?
-  - how can I force you to ____?
-  - what do you really think of me?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a move on someone without rolling as if you made 7-9&lt;/li&gt;
+&lt;li&gt;Manipulate someone with a promise&lt;/li&gt;
+&lt;li&gt;ask a question from this list
+
+&lt;ul&gt;
+&lt;li&gt;what do you like about me?&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s stopping you from being with me?&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s your greatest desire?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cold string&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shut someone down without rolling as if you made 7-9&lt;/li&gt;
+&lt;li&gt;Manipulate someone with a threat&lt;/li&gt;
+&lt;li&gt;ask a question from this list
+
+&lt;ul&gt;
+&lt;li&gt;what&amp;rsquo;s your greatest fear?&lt;/li&gt;
+&lt;li&gt;how can I force you to ____?&lt;/li&gt;
+&lt;li&gt;what do you really think of me?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;darkest-self:698e58a815953b650f646ce2d71b8858&#34;&gt;Darkest self&lt;/h2&gt;
 
