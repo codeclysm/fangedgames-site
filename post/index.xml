@@ -6,8 +6,173 @@
     <description>Recent content in Posts on Fanged Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2016 11:51:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jul 2016 18:30:33 +0200</lastBuildDate>
     <atom:link href="http://www.fangedgames.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Turmoil: second draft draft</title>
+      <link>http://www.fangedgames.com/post/turmoil-second-draft/</link>
+      <pubDate>Sat, 30 Jul 2016 18:30:33 +0200</pubDate>
+      
+      <guid>http://www.fangedgames.com/post/turmoil-second-draft/</guid>
+      <description>
+
+&lt;p&gt;Turmoil is an unofficial fork of &lt;a href=&#34;http://buriedwithoutceremony.com/monsterhearts/&#34;&gt;Monsterhearts&lt;/a&gt;.  It keeps most of the interesting bits but it changes profoundly the way they behave. It takes inspiration from &lt;a href=&#34;http://www.magpiegames.com/masks/&#34;&gt;Masks&lt;/a&gt; and &lt;a href=&#34;http://www.angelfire.com/indie/btw/games/rustbelt.html&#34;&gt;the Rustbelt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the core belief behind this game is that players should never lose completely control over the game, even if their characters are helpless, but that control must be relinquished in some measure in order to make the game interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BE WARY: THIS IS NOT THE SECOND EDITION OF MONSTERHEARTS AND THIS CONTENT IS JUST FAN CONTENT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conditions:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Conditions&lt;/h2&gt;
+
+&lt;p&gt;A condition is a particular emotion your character is feeling. Because these are teenagers, all these conditions are bad news. They expose weakness and sometimes they are debilitating.&lt;/p&gt;
+
+&lt;p&gt;Most of the times a certain move will force a player to choose between two different conditions, but a condition can be gained in other ways too. It&amp;rsquo;s common to ask &amp;ldquo;wait, are you angry?&amp;rdquo; to make the player realize they should take the condition. The player is the only one that can decide which condition to take, but it helps to be honest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Turned on&lt;/strong&gt; means that something (or someone) is making you feel hot and your stomach fill with butterflies.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others how it shows on your character. If you already had this condition give a Hot String to whoever caused you to take it again.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, whoever turned you (now or in the past) can Manipulate you with a promise of intimacy.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition give in to your impulses (with or without the person who turned you on).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Angry&lt;/strong&gt; means that something (or someone) has made you furious, and you&amp;rsquo;d like to punch them in the face.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others how it shows on your character. If you already had this condition give a Cold String to whoever caused you to take it again.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, no one can Manipulate you with a Threat or a Promise, but neither can you.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition hurt someone or break something, or wait until the end of the scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hurt&lt;/strong&gt; means that you&amp;rsquo;re suffering, from physical or psychological wounds.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others how you&amp;rsquo;re hurt. If you already had this condition take the condition Broken instead.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, no matter the results of your dice rolls, you cannot have a 10+ on your dice.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition seek help and heal, or become your darkest self.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Broken&lt;/strong&gt; means that you cannot bring yourself to do shit.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others why the world betrayed you. If you already had this condition you die. Tell the others how.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, you cannot roll dice at all.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition seek help and heal (becoming hurt), or become your darkest self.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scared&lt;/strong&gt; means that you&amp;rsquo;re worried and frightened of something or someone.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others what you have to lose. If you already had this condition you have to Run Away.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, whoever can take a Cold String on you by being menacing.&lt;/p&gt;
+
+&lt;p&gt;To remove this condition you have to Run Away, or wait until the end of the scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uneasy&lt;/strong&gt; means that something&amp;rsquo;s making you uncomfortable.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others why this situation is making you uncomfortable. If you already had this condition give a Cold String to whoever caused you to take it again.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, everyone has a +1 bonus using moves against you.&lt;/p&gt;
+
+&lt;p&gt;To remove this condition fling yourself into easy relief.&lt;/p&gt;
+
+&lt;p&gt;Note that some conditions don&amp;rsquo;t clear at the end of a scene.&lt;/p&gt;
+
+&lt;h2 id=&#34;basic-moves:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Basic Moves&lt;/h2&gt;
+
+&lt;p&gt;Most of the basic moves are used to provoke the other character into feeling something, while other are used to change the fictional positioning of the character.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you make a move on someone&lt;/strong&gt; roll+hot.&lt;/p&gt;
+
+&lt;p&gt;On a success they choose if they are turned on or uneasy. On a 7-9 you have to choose too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you shut someone down&lt;/strong&gt; roll +cold.&lt;/p&gt;
+
+&lt;p&gt;On a success they choose if they are hurt or angry. On a 10+ they lose whatever hot string they had on you&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you lash out&lt;/strong&gt; roll+volatile.&lt;/p&gt;
+
+&lt;p&gt;On a 10+ they are hurt. On a 10+ they also choose if they are Scared or if they give you a Cold String.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you flee&lt;/strong&gt; roll +volatile.&lt;/p&gt;
+
+&lt;p&gt;On a success you find youself somewhere else. On a 7-9 choose if you prefer to make a big scene or to find yourself in big trouble.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you manipulate someone with a threat&lt;/strong&gt; roll+cold.&lt;/p&gt;
+
+&lt;p&gt;On a 10+ they are scared, and choose:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They do what you asked&lt;/li&gt;
+&lt;li&gt;They don&amp;rsquo;t do what you asked, and you gain a Cold String over them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On a 7-9 they choose:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They do what you asked and they&amp;rsquo;re not scared&lt;/li&gt;
+&lt;li&gt;They don&amp;rsquo;t do what you asked and they are scared.&lt;/li&gt;
+&lt;li&gt;They give (or promise) you something else of value, and they are scared.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;When you manipulate someone with a promise&lt;/strong&gt; roll+cold.&lt;/p&gt;
+
+&lt;p&gt;On a 10+ they choose:
+- They do what you want
+- They don&amp;rsquo;t do what you want and they are uneasy.&lt;/p&gt;
+
+&lt;p&gt;On a 7-9 they can also choose:
+- They do what you want if you give them something more.
+- They give (or promise) you something else of value.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you gaze into the abyss&lt;/strong&gt; roll+dark. The abyss will always answer. On a 7-9 choose 2, on a 10+ choose three.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It answers to what you asked&lt;/li&gt;
+&lt;li&gt;It cures you from a condition&lt;/li&gt;
+&lt;li&gt;It makes you happy&lt;/li&gt;
+&lt;li&gt;you are not uneasy when it&amp;rsquo;s finished.&lt;/li&gt;
+&lt;li&gt;You gain a Hot String or a Cold string on the subject of your visions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;strings:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Strings&lt;/h2&gt;
+
+&lt;p&gt;There are two kind of strings, used to influence people in different ways. You can spend them as currency to make the actions against the people who gave you the string.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hot string&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make a move on someone without rolling as if you made 7-9&lt;/li&gt;
+&lt;li&gt;Manipulate someone with a promise&lt;/li&gt;
+&lt;li&gt;ask a question from this list
+
+&lt;ul&gt;
+&lt;li&gt;what do you like about me?&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s stopping you from being with me?&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s your greatest desire?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cold string&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shut someone down without rolling as if you made 7-9&lt;/li&gt;
+&lt;li&gt;Manipulate someone with a threat&lt;/li&gt;
+&lt;li&gt;ask a question from this list
+
+&lt;ul&gt;
+&lt;li&gt;what&amp;rsquo;s your greatest fear?&lt;/li&gt;
+&lt;li&gt;how can I force you to ____?&lt;/li&gt;
+&lt;li&gt;what do you really think of me?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;skins:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Skins&lt;/h2&gt;
+
+&lt;p&gt;Visit the page &lt;a href=&#34;http://www.fangedgames.com/page/turmoil-skins&#34;&gt;http://www.fangedgames.com/page/turmoil-skins&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Turmoil: first playtest part 2</title>

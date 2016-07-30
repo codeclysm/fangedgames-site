@@ -6,8 +6,406 @@
     <description>Recent content on Fanged Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2016 11:51:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jul 2016 18:30:33 +0200</lastBuildDate>
     <atom:link href="http://www.fangedgames.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Turmoil: second draft draft</title>
+      <link>http://www.fangedgames.com/post/turmoil-second-draft/</link>
+      <pubDate>Sat, 30 Jul 2016 18:30:33 +0200</pubDate>
+      
+      <guid>http://www.fangedgames.com/post/turmoil-second-draft/</guid>
+      <description>
+
+&lt;p&gt;Turmoil is an unofficial fork of &lt;a href=&#34;http://buriedwithoutceremony.com/monsterhearts/&#34;&gt;Monsterhearts&lt;/a&gt;.  It keeps most of the interesting bits but it changes profoundly the way they behave. It takes inspiration from &lt;a href=&#34;http://www.magpiegames.com/masks/&#34;&gt;Masks&lt;/a&gt; and &lt;a href=&#34;http://www.angelfire.com/indie/btw/games/rustbelt.html&#34;&gt;the Rustbelt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the core belief behind this game is that players should never lose completely control over the game, even if their characters are helpless, but that control must be relinquished in some measure in order to make the game interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BE WARY: THIS IS NOT THE SECOND EDITION OF MONSTERHEARTS AND THIS CONTENT IS JUST FAN CONTENT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conditions:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Conditions&lt;/h2&gt;
+
+&lt;p&gt;A condition is a particular emotion your character is feeling. Because these are teenagers, all these conditions are bad news. They expose weakness and sometimes they are debilitating.&lt;/p&gt;
+
+&lt;p&gt;Most of the times a certain move will force a player to choose between two different conditions, but a condition can be gained in other ways too. It&amp;rsquo;s common to ask &amp;ldquo;wait, are you angry?&amp;rdquo; to make the player realize they should take the condition. The player is the only one that can decide which condition to take, but it helps to be honest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Turned on&lt;/strong&gt; means that something (or someone) is making you feel hot and your stomach fill with butterflies.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others how it shows on your character. If you already had this condition give a Hot String to whoever caused you to take it again.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, whoever turned you (now or in the past) can Manipulate you with a promise of intimacy.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition give in to your impulses (with or without the person who turned you on).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Angry&lt;/strong&gt; means that something (or someone) has made you furious, and you&amp;rsquo;d like to punch them in the face.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others how it shows on your character. If you already had this condition give a Cold String to whoever caused you to take it again.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, no one can Manipulate you with a Threat or a Promise, but neither can you.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition hurt someone or break something, or wait until the end of the scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hurt&lt;/strong&gt; means that you&amp;rsquo;re suffering, from physical or psychological wounds.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others how you&amp;rsquo;re hurt. If you already had this condition take the condition Broken instead.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, no matter the results of your dice rolls, you cannot have a 10+ on your dice.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition seek help and heal, or become your darkest self.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Broken&lt;/strong&gt; means that you cannot bring yourself to do shit.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others why the world betrayed you. If you already had this condition you die. Tell the others how.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, you cannot roll dice at all.&lt;/p&gt;
+
+&lt;p&gt;To remove the condition seek help and heal (becoming hurt), or become your darkest self.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scared&lt;/strong&gt; means that you&amp;rsquo;re worried and frightened of something or someone.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others what you have to lose. If you already had this condition you have to Run Away.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, whoever can take a Cold String on you by being menacing.&lt;/p&gt;
+
+&lt;p&gt;To remove this condition you have to Run Away, or wait until the end of the scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uneasy&lt;/strong&gt; means that something&amp;rsquo;s making you uncomfortable.&lt;/p&gt;
+
+&lt;p&gt;When you gain this condition tell the others why this situation is making you uncomfortable. If you already had this condition give a Cold String to whoever caused you to take it again.&lt;/p&gt;
+
+&lt;p&gt;While you have this condition, everyone has a +1 bonus using moves against you.&lt;/p&gt;
+
+&lt;p&gt;To remove this condition fling yourself into easy relief.&lt;/p&gt;
+
+&lt;p&gt;Note that some conditions don&amp;rsquo;t clear at the end of a scene.&lt;/p&gt;
+
+&lt;h2 id=&#34;basic-moves:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Basic Moves&lt;/h2&gt;
+
+&lt;p&gt;Most of the basic moves are used to provoke the other character into feeling something, while other are used to change the fictional positioning of the character.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you make a move on someone&lt;/strong&gt; roll+hot.&lt;/p&gt;
+
+&lt;p&gt;On a success they choose if they are turned on or uneasy. On a 7-9 you have to choose too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you shut someone down&lt;/strong&gt; roll +cold.&lt;/p&gt;
+
+&lt;p&gt;On a success they choose if they are hurt or angry. On a 10+ they lose whatever hot string they had on you&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you lash out&lt;/strong&gt; roll+volatile.&lt;/p&gt;
+
+&lt;p&gt;On a 10+ they are hurt. On a 10+ they also choose if they are Scared or if they give you a Cold String.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you flee&lt;/strong&gt; roll +volatile.&lt;/p&gt;
+
+&lt;p&gt;On a success you find youself somewhere else. On a 7-9 choose if you prefer to make a big scene or to find yourself in big trouble.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you manipulate someone with a threat&lt;/strong&gt; roll+cold.&lt;/p&gt;
+
+&lt;p&gt;On a 10+ they are scared, and choose:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They do what you asked&lt;/li&gt;
+&lt;li&gt;They don&amp;rsquo;t do what you asked, and you gain a Cold String over them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On a 7-9 they choose:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They do what you asked and they&amp;rsquo;re not scared&lt;/li&gt;
+&lt;li&gt;They don&amp;rsquo;t do what you asked and they are scared.&lt;/li&gt;
+&lt;li&gt;They give (or promise) you something else of value, and they are scared.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;When you manipulate someone with a promise&lt;/strong&gt; roll+cold.&lt;/p&gt;
+
+&lt;p&gt;On a 10+ they choose:
+- They do what you want
+- They don&amp;rsquo;t do what you want and they are uneasy.&lt;/p&gt;
+
+&lt;p&gt;On a 7-9 they can also choose:
+- They do what you want if you give them something more.
+- They give (or promise) you something else of value.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you gaze into the abyss&lt;/strong&gt; roll+dark. The abyss will always answer. On a 7-9 choose 2, on a 10+ choose three.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It answers to what you asked&lt;/li&gt;
+&lt;li&gt;It cures you from a condition&lt;/li&gt;
+&lt;li&gt;It makes you happy&lt;/li&gt;
+&lt;li&gt;you are not uneasy when it&amp;rsquo;s finished.&lt;/li&gt;
+&lt;li&gt;You gain a Hot String or a Cold string on the subject of your visions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;strings:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Strings&lt;/h2&gt;
+
+&lt;p&gt;There are two kind of strings, used to influence people in different ways. You can spend them as currency to make the actions against the people who gave you the string.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hot string&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make a move on someone without rolling as if you made 7-9&lt;/li&gt;
+&lt;li&gt;Manipulate someone with a promise&lt;/li&gt;
+&lt;li&gt;ask a question from this list
+
+&lt;ul&gt;
+&lt;li&gt;what do you like about me?&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s stopping you from being with me?&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s your greatest desire?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cold string&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shut someone down without rolling as if you made 7-9&lt;/li&gt;
+&lt;li&gt;Manipulate someone with a threat&lt;/li&gt;
+&lt;li&gt;ask a question from this list
+
+&lt;ul&gt;
+&lt;li&gt;what&amp;rsquo;s your greatest fear?&lt;/li&gt;
+&lt;li&gt;how can I force you to ____?&lt;/li&gt;
+&lt;li&gt;what do you really think of me?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;skins:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Skins&lt;/h2&gt;
+
+&lt;p&gt;Visit the page &lt;a href=&#34;http://www.fangedgames.com/page/turmoil-skins&#34;&gt;http://www.fangedgames.com/page/turmoil-skins&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>turmoil skins</title>
+      <link>http://www.fangedgames.com/page/turmoil-skins/</link>
+      <pubDate>Sat, 30 Jul 2016 18:30:23 +0200</pubDate>
+      
+      <guid>http://www.fangedgames.com/page/turmoil-skins/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-chosen:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;The Chosen&lt;/h1&gt;
+
+&lt;p&gt;The chosen is someone with great powers and a duty to fight evil. Their moves are about doing what&amp;rsquo;s necessary and steel themselves against hardships. Their darkest self is about refusing help and carry the weight of their responsibility alone.&lt;/p&gt;
+
+&lt;h2 id=&#34;stats:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+
+&lt;p&gt;Add 1 to one of these:
+Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
+
+&lt;h2 id=&#34;moves:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+
+&lt;p&gt;Choose 2:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mercy&lt;/strong&gt;: When you spare the life of someone you have a reason to kill, take a Cold string over them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Growing Pains&lt;/strong&gt;: When you fail to protect your friends, mark experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cold Blood&lt;/strong&gt;: When you gather your courage, you can roll+Cold. On a 10+ choose 3, On a 7-9 choose 1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You aren&amp;rsquo;t scared anymore&lt;/li&gt;
+&lt;li&gt;You gain +1 to your next roll&lt;/li&gt;
+&lt;li&gt;You gain a cold string on the scariest person present&lt;/li&gt;
+&lt;li&gt;You can ask a question about the situation to the MC (MC must answer truthfully)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Take the blow&lt;/strong&gt;: When you leap into the way and take the blow instead of someone else, roll +Volatile. On a success you are hurt and they&amp;rsquo;re not. On a 10+ you can choose to be Scared instead of Hurt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Light the way&lt;/strong&gt;: Whenever your friends follow through on your commands or your lead, they can use the Cold Blood Move (even if you don&amp;rsquo;t have it)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To the books&lt;/strong&gt;: When you research a way to fight a threat, roll with the number of people assisting you. On a 10+, choose 2. On a 7-9, choose 1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ask the MC a question (MC must answer truthfully)&lt;/li&gt;
+&lt;li&gt;Gain a cold string on your enemy&lt;/li&gt;
+&lt;li&gt;You aren&amp;rsquo;t uneasy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;special-move:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+
+&lt;p&gt;When someone else attends to your injuries, they take a Hot string over you&lt;/p&gt;
+
+&lt;h2 id=&#34;darkest-self:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+
+&lt;p&gt;While you are in your darkest self, as long as you&amp;rsquo;re on your own, you can&amp;rsquo;t be scared or uneasy. You escape your darkest self when there&amp;rsquo;s no more danger.&lt;/p&gt;
+
+&lt;h2 id=&#34;backstory:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You have to friends you can rely on for monster-slaying support. Name them and take a Cold string or a Hot string over them (your choice)&lt;/li&gt;
+&lt;li&gt;Someone wants you dead. The MC gives them a name and two Cold string over you&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;ghost:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Ghost&lt;/h1&gt;
+
+&lt;p&gt;The ghost is lonely and spooky. Their moves are about alienating others. Their darkest self is about craving and obtaining attention.&lt;/p&gt;
+
+&lt;h2 id=&#34;stats-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+
+&lt;p&gt;Add 1 to one of these:
+Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
+
+&lt;h2 id=&#34;moves-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+
+&lt;p&gt;You get:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wallflower&lt;/strong&gt;: When someone don&amp;rsquo;t notice you, or ignores you, roll +dark. On a success gain a Cold String on them. On a 7-9 choose if you are Hurt or Angry.&lt;/p&gt;
+
+&lt;p&gt;Then choose 2:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vengeful&lt;/strong&gt;: When you lash out to get revenge, you can spend a Cold String to make a 10+ without rolling the dice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hungry ghost&lt;/strong&gt;: When someone dump their emotional problems on you, roll +dark. On a 10+ choose 2. On a 7-9 choose 1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mark experience&lt;/li&gt;
+&lt;li&gt;Gain a cold string on them&lt;/li&gt;
+&lt;li&gt;You are no longer uneasy&lt;/li&gt;
+&lt;li&gt;You are no longer hurt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Dissipate&lt;/strong&gt;: When you successfully flee by going through walls, gain a Cold String over whom you were running from.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dead people can&amp;rsquo;t keep secrets&lt;/strong&gt;: You can spend a Cold string on someone to ask them to reveal a secret of them. If you use that secret to Shut them Down, you add+1 to your roll.&lt;/p&gt;
+
+&lt;h2 id=&#34;special-move-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+
+&lt;p&gt;When you secretly witness someone in their most intimate moments, perhaps showering or sleeping, gain a Hot String on them.&lt;/p&gt;
+
+&lt;h2 id=&#34;darkest-self-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+
+&lt;p&gt;While you are in your darkest self, no one can see you, feel you, or hear you. You can still move small inanimate objects. When someone acknowledge your presence, they choose if they are Uneasy or Afraid. You escape your darkest self when someone gives you the attention you deserve.&lt;/p&gt;
+
+&lt;h2 id=&#34;backstory-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Someone knows you&amp;rsquo;re dead. They gain a cold string over you.&lt;/li&gt;
+&lt;li&gt;You witnessed someone&amp;rsquo;s while they were sleeping. They gain a hot string over you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;the-ghoul:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;The Ghoul&lt;/h1&gt;
+
+&lt;p&gt;The ghoul is a monster that feels the urge to feed constantly of flesh, sex, pain, fear. Their moves are about morbidity and death. Their darkest self is about fighting the temptations.&lt;/p&gt;
+
+&lt;h2 id=&#34;stats-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+
+&lt;p&gt;Add 1 to one of these:
+Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
+
+&lt;h2 id=&#34;moves-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+
+&lt;p&gt;Choose 2:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The hunger&lt;/strong&gt;: You have an hunger for (choose 1): flesh, sex, pain, fear. When you feed successfully you can remove a condition. When you ignore a feeding opportunity roll +Cold. On a success, you are uneasy. On a 10+ no one notices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disaffected&lt;/strong&gt;: When someone gives you a hot string, you can convert it into a cold string. You can&amp;rsquo;t do it later, you have to choose in that moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Short Rest for the Wicked&lt;/strong&gt;: When you die, wait it out. Some hours later, you wake up fully healed, in your darkest self.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morbid&lt;/strong&gt;: You can spend a Cold string to ask someone one of these questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why do you deserve to die?&lt;/li&gt;
+&lt;li&gt;What was your lowest moment?&lt;/li&gt;
+&lt;li&gt;What makes you cry?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ending&lt;/strong&gt;: When someone listen when you talk about your death, roll +Cold. On a success they choose if they are Scared or Turned on. On a 10+ you gain a Cold string over them.&lt;/p&gt;
+
+&lt;h2 id=&#34;special-move-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+
+&lt;p&gt;When someone lashes out at you, you can decide to be Turned On instead of Scared.&lt;/p&gt;
+
+&lt;h2 id=&#34;darkest-self-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+
+&lt;p&gt;While you are in your darkest self, whenever you ignore a feeding opportunity, you gain the condition Hurt instead of Uneasy. You escape your darkest self when you feed.&lt;/p&gt;
+
+&lt;h2 id=&#34;backstory-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Someone smells like love. Give them 2 hot strings.&lt;/li&gt;
+&lt;li&gt;Someone knows about your hunger. You gain a cold string over them. They gain a cold string over you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;the-queen:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;The Queen&lt;/h1&gt;
+
+&lt;p&gt;The queen is the leader of a clique of other youngsters. Their moves are about control and popularity. Their darkest self is about abusing power and trust.&lt;/p&gt;
+
+&lt;h2 id=&#34;stats-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+
+&lt;p&gt;Add 1 to one of these:
+Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
+
+&lt;h2 id=&#34;moves-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+
+&lt;p&gt;You get a Clique. It&amp;rsquo;s usually half a dozen close friends who look up at you.&lt;/p&gt;
+
+&lt;p&gt;Choose 2 perks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They are a lot (like a dozen)&lt;/li&gt;
+&lt;li&gt;They can defend themselves (they&amp;rsquo;re armed or trained)&lt;/li&gt;
+&lt;li&gt;They know people (who can sell them the cool drugs, or get them into the hot clubs)&lt;/li&gt;
+&lt;li&gt;They share something (they are part of the same team or band)&lt;/li&gt;
+&lt;li&gt;They are as family (they are ready to fight for each other)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Choose 2 downsides:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They are few (like 2 or 3)&lt;/li&gt;
+&lt;li&gt;They are dangerous (they have no problem with violence and crime)&lt;/li&gt;
+&lt;li&gt;They are scorned (by other popular groups)&lt;/li&gt;
+&lt;li&gt;They are different from you (in a significant way)&lt;/li&gt;
+&lt;li&gt;They need something (from you, specifically)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Choose 2 moves&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The shield&lt;/strong&gt;: When you shield yourself with someone from your clique, roll +Cold. On a 7-9, choose 1. On a 10+, choose 2.
+- You aren&amp;rsquo;t afraid
+- They aren&amp;rsquo;t afraid
+- They aren&amp;rsquo;t hurt&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Many bodies&lt;/strong&gt;: When you make a move on someone and roll a 7-9, you can choose that someone else from your clique, who is present, is turned on instead of you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And your enemies closer&lt;/strong&gt;: When someone betrays you, you gain a cold string over them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Puppeteer&lt;/strong&gt;: When you ask someone in your clique to do something for you, roll +Hot. On a 7-9, they choose whether to do it or be Uneasy. On a 10+ they choose whether to do it or be Hurt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Streaming&lt;/strong&gt;: When you probe the mind of someone in your clique, roll +Dark. On a 7-9, ask 1. On a 10+, ask 3:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What do you think about ____?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your greatest fear?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your greatest dream?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your beef against ____?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s your stake in ____?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On a miss, they can ask you 3 questions. You must answer truthfully.&lt;/p&gt;
+
+&lt;h2 id=&#34;special-move-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+
+&lt;p&gt;When you introduce someone to the clique, they become part of the clique.&lt;/p&gt;
+
+&lt;h2 id=&#34;darkest-self-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+
+&lt;p&gt;While you are in your darkest self, you can use Puppeteer without rolling dice, as if you made a 10+. You escape your darkest self when someone in your clique stands up against you.&lt;/p&gt;
+
+&lt;h2 id=&#34;backstory-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You really want someone to be part of your clique: Give them a hot string&lt;/li&gt;
+&lt;li&gt;You feel like someone is a threat to your status. Gain a cold string over them&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Turmoil: first playtest part 2</title>
