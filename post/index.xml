@@ -93,7 +93,7 @@
 
 &lt;p&gt;&lt;strong&gt;When you lash out&lt;/strong&gt; roll+volatile.&lt;/p&gt;
 
-&lt;p&gt;On a 10+ they are hurt. On a 10+ they also choose if they are Scared or if they give you a Cold String.&lt;/p&gt;
+&lt;p&gt;On a success they are hurt. On a 10+ they also choose if they are Scared or if they give you a Cold String.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;When you flee&lt;/strong&gt; roll +volatile.&lt;/p&gt;
 
@@ -118,13 +118,19 @@
 
 &lt;p&gt;&lt;strong&gt;When you manipulate someone with a promise&lt;/strong&gt; roll+cold.&lt;/p&gt;
 
-&lt;p&gt;On a 10+ they choose:
-- They do what you want
-- They don&amp;rsquo;t do what you want and they are uneasy.&lt;/p&gt;
+&lt;p&gt;On a 10+ they choose:&lt;/p&gt;
 
-&lt;p&gt;On a 7-9 they can also choose:
-- They do what you want if you give them something more.
-- They give (or promise) you something else of value.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They do what you want&lt;/li&gt;
+&lt;li&gt;They don&amp;rsquo;t do what you want and they are uneasy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On a 7-9 they can also choose:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They do what you want if you give them something more.&lt;/li&gt;
+&lt;li&gt;They give (or promise) you something else of value.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;When you gaze into the abyss&lt;/strong&gt; roll+dark. The abyss will always answer. On a 7-9 choose 2, on a 10+ choose three.&lt;/p&gt;
 
@@ -132,7 +138,7 @@
 &lt;li&gt;It answers to what you asked&lt;/li&gt;
 &lt;li&gt;It cures you from a condition&lt;/li&gt;
 &lt;li&gt;It makes you happy&lt;/li&gt;
-&lt;li&gt;you are not uneasy when it&amp;rsquo;s finished.&lt;/li&gt;
+&lt;li&gt;You are not uneasy when it&amp;rsquo;s finished.&lt;/li&gt;
 &lt;li&gt;You gain a Hot String or a Cold string on the subject of your visions.&lt;/li&gt;
 &lt;/ul&gt;
 
