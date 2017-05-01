@@ -6,8 +6,134 @@
     <description>Recent content on Fanged Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jul 2016 18:30:33 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 09:31:14 +0200</lastBuildDate>
     <atom:link href="http://www.fangedgames.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Starchilds: first draft</title>
+      <link>http://www.fangedgames.com/post/starchilds-first-draft/</link>
+      <pubDate>Mon, 01 May 2017 09:31:14 +0200</pubDate>
+      
+      <guid>http://www.fangedgames.com/post/starchilds-first-draft/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;Somewhere out there in the vast nothingness of space,&lt;br&gt;
+Somewhere far away in space and time,&lt;br&gt;
+Staring upward at the gleaming stars in the obsidian sky,&lt;br&gt;
+We’re marooned on a small island, in an endless sea&lt;br&gt;
+Confined to a tiny spit of sand, unable to escape,&lt;br&gt;
+But tonight, on this small planet, on earth&lt;br&gt;
+We’re going to rock civilization…&lt;br&gt;
+  – Lyrics from “Prelude/Slam”, Pendulum&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Starchilds is a scifi game about teenagers. The main idea came to me while looking at the stars and wondering whether I would gaze at them at the same way if I were living among them.&lt;/p&gt;
+
+&lt;h2 id=&#34;prep&#34;&gt;Prep&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Choose the setting: space station, alien planet, bla bla&lt;/li&gt;
+&lt;li&gt;Answer: what do we have that on earth is lacking?&lt;/li&gt;
+&lt;li&gt;Answer:what do we lack here that they have on earth?&lt;/li&gt;
+&lt;li&gt;Choose the playbooks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It&amp;rsquo;s a pbta, so we have attributes!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Void&lt;/strong&gt; measure your perceived distance from others and the world&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mass&lt;/strong&gt; measure the impact you can have on others&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Light&lt;/strong&gt; measure how much you are looked upon by others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The basic moves are grouped by Mood. Every player will start with a Mood, and the Mood will probably change multiple times during the game.&lt;/p&gt;
+
+&lt;p&gt;The Moods are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blue&lt;/strong&gt;: Thoughtful, longing, sad&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hot&lt;/strong&gt;: Excited, ready for action&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sick&lt;/strong&gt;: Uneasy, on edge, worried.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you currently have a Mood, you gain experience points when you use moves in that Mood group. Moreover, there are other benefits:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Blue&lt;/em&gt;: you have access to the move Stargaze, which allows you to see the truth in people.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hot&lt;/em&gt;: if you’re doing things without caring about consequences, you get +1 at rolls&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sick&lt;/em&gt;: Rolls against you can’t reach the full success.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sometimes a move will tell you that you are &lt;strong&gt;Hurt&lt;/strong&gt;. &lt;em&gt;Hurt&lt;/em&gt; is not a Mood, so you can be &lt;em&gt;Blue&lt;/em&gt; AND &lt;em&gt;Hurt&lt;/em&gt; at the same time.&lt;/p&gt;
+
+&lt;p&gt;When you are &lt;em&gt;Hurt&lt;/em&gt; you can’t reach the full success of your rolls. If you would become &lt;em&gt;Hurt&lt;/em&gt; when you already are Hurt, you become &lt;em&gt;Broken&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;When you are &lt;em&gt;Broken&lt;/em&gt; you can’t use moves at all. You can still play though.&lt;/p&gt;
+
+&lt;p&gt;To Heal from &lt;em&gt;Broken&lt;/em&gt; to &lt;em&gt;Hurt&lt;/em&gt;, or from &lt;em&gt;Hurt&lt;/em&gt; to &lt;em&gt;Ok&lt;/em&gt;, wait until time passes, or be healed by another character.&lt;/p&gt;
+
+&lt;h2 id=&#34;blue-moves&#34;&gt;Blue moves&lt;/h2&gt;
+
+&lt;h3 id=&#34;stargaze&#34;&gt;Stargaze&lt;/h3&gt;
+
+&lt;p&gt;When you gaze at the stars voice your doubts and questions to the distant skies, choose another player and roll +Void.
+On a 10+ they are Blue and they have to answer one of your questions
+On a 7-9, they may lie about it.
+On a miss, the MC will answer&lt;/p&gt;
+
+&lt;h3 id=&#34;razor-tongue&#34;&gt;Razor tongue&lt;/h3&gt;
+
+&lt;p&gt;When you say something to hurt someone, roll +Mass
+On a 10+, they are Hurt
+On a 7-9, they choose if they are Hurt or Sick. If they already are Sick, they can’t choose this option.&lt;/p&gt;
+
+&lt;h2 id=&#34;hot-moves&#34;&gt;Hot moves&lt;/h2&gt;
+
+&lt;h3 id=&#34;make-a-move&#34;&gt;Make a move&lt;/h3&gt;
+
+&lt;p&gt;When you make a move on someone, roll +Light
+On a 10+ they choose:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Act on their impulses and be Hot&lt;/li&gt;
+&lt;li&gt;Refuse you and be Sick&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On a 7-9 they can use Razor Tongue as if they rolled a 7-9&lt;/p&gt;
+
+&lt;h3 id=&#34;lash-out&#34;&gt;Lash out&lt;/h3&gt;
+
+&lt;p&gt;When you lash out at someone, roll +Mass
+On a 10+ they choose 2:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;they are Hurt&lt;/li&gt;
+&lt;li&gt;they give you something you asked for&lt;/li&gt;
+&lt;li&gt;they are Hot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On a 7-9 they choose all 3.&lt;/p&gt;
+
+&lt;h2 id=&#34;sick-moves-lol&#34;&gt;Sick moves (lol)&lt;/h2&gt;
+
+&lt;h3 id=&#34;watch-out&#34;&gt;Watch out&lt;/h3&gt;
+
+&lt;p&gt;When you avoid problems, roll +Void
+On a success, you are Blue
+On a 10+ your problems will give you pause (but won’t disappear)&lt;/p&gt;
+
+&lt;h3 id=&#34;take-care&#34;&gt;Take care&lt;/h3&gt;
+
+&lt;p&gt;When you take care of someone, roll +Light
+On a 7-9 they choose if they are Healed or Blue.
+On a 10+, if they chose to be Healed, you are Healed too&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.fangedgames.com/starchilds-first-draft/moods.png&#34; alt=&#34;Moods&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.fangedgames.com/starchilds-first-draft/hurt.png&#34; alt=&#34;Hurt&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Turmoil: second draft draft</title>
@@ -23,7 +149,7 @@
 
 &lt;p&gt;&lt;strong&gt;BE WARY: THIS IS NOT THE SECOND EDITION OF MONSTERHEARTS AND THIS CONTENT IS JUST FAN CONTENT&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;conditions:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Conditions&lt;/h2&gt;
+&lt;h2 id=&#34;conditions&#34;&gt;Conditions&lt;/h2&gt;
 
 &lt;p&gt;A condition is a particular emotion your character is feeling. Because these are teenagers, all these conditions are bad news. They expose weakness and sometimes they are debilitating.&lt;/p&gt;
 
@@ -79,7 +205,7 @@
 
 &lt;p&gt;Note that some conditions don&amp;rsquo;t clear at the end of a scene.&lt;/p&gt;
 
-&lt;h2 id=&#34;basic-moves:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Basic Moves&lt;/h2&gt;
+&lt;h2 id=&#34;basic-moves&#34;&gt;Basic Moves&lt;/h2&gt;
 
 &lt;p&gt;Most of the basic moves are used to provoke the other character into feeling something, while other are used to change the fictional positioning of the character.&lt;/p&gt;
 
@@ -142,7 +268,7 @@
 &lt;li&gt;You gain a Hot String or a Cold string on the subject of your visions.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;strings:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Strings&lt;/h2&gt;
+&lt;h2 id=&#34;strings&#34;&gt;Strings&lt;/h2&gt;
 
 &lt;p&gt;There are two kind of strings, used to influence people in different ways. You can spend them as currency to make the actions against the people who gave you the string.&lt;/p&gt;
 
@@ -174,7 +300,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;skins:75f1fa200cd8f31a038531a0e337cbd8&#34;&gt;Skins&lt;/h2&gt;
+&lt;h2 id=&#34;skins&#34;&gt;Skins&lt;/h2&gt;
 
 &lt;p&gt;Visit the page &lt;a href=&#34;http://www.fangedgames.com/page/turmoil-skins&#34;&gt;http://www.fangedgames.com/page/turmoil-skins&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -188,16 +314,16 @@
       <guid>http://www.fangedgames.com/page/turmoil-skins/</guid>
       <description>
 
-&lt;h1 id=&#34;the-chosen:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;The Chosen&lt;/h1&gt;
+&lt;h1 id=&#34;the-chosen&#34;&gt;The Chosen&lt;/h1&gt;
 
 &lt;p&gt;The chosen is someone with great powers and a duty to fight evil. Their moves are about doing what&amp;rsquo;s necessary and steel themselves against hardships. Their darkest self is about refusing help and carry the weight of their responsibility alone.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;Choose 2:&lt;/p&gt;
 
@@ -226,15 +352,15 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 &lt;li&gt;You aren&amp;rsquo;t uneasy.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;special-move:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When someone else attends to your injuries, they take a Hot string over you&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, as long as you&amp;rsquo;re on your own, you can&amp;rsquo;t be scared or uneasy. You escape your darkest self when there&amp;rsquo;s no more danger.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;You have to friends you can rely on for monster-slaying support. Name them and take a Cold string or a Hot string over them (your choice)&lt;/li&gt;
@@ -243,16 +369,16 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;ghost:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Ghost&lt;/h1&gt;
+&lt;h1 id=&#34;ghost&#34;&gt;Ghost&lt;/h1&gt;
 
 &lt;p&gt;The ghost is lonely and spooky. Their moves are about alienating others. Their darkest self is about craving and obtaining attention.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats-1&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves-1&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;You get:&lt;/p&gt;
 
@@ -275,15 +401,15 @@ Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Dead people can&amp;rsquo;t keep secrets&lt;/strong&gt;: You can spend a Cold string on someone to ask them to reveal a secret of them. If you use that secret to Shut them Down, you add+1 to your roll.&lt;/p&gt;
 
-&lt;h2 id=&#34;special-move-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move-1&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When you secretly witness someone in their most intimate moments, perhaps showering or sleeping, gain a Hot String on them.&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self-1&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, no one can see you, feel you, or hear you. You can still move small inanimate objects. When someone acknowledge your presence, they choose if they are Uneasy or Afraid. You escape your darkest self when someone gives you the attention you deserve.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory-1:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory-1&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Someone knows you&amp;rsquo;re dead. They gain a cold string over you.&lt;/li&gt;
@@ -292,16 +418,16 @@ Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;the-ghoul:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;The Ghoul&lt;/h1&gt;
+&lt;h1 id=&#34;the-ghoul&#34;&gt;The Ghoul&lt;/h1&gt;
 
 &lt;p&gt;The ghoul is a monster that feels the urge to feed constantly of flesh, sex, pain, fear. Their moves are about morbidity and death. Their darkest self is about fighting the temptations.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats-2&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves-2&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;Choose 2:&lt;/p&gt;
 
@@ -321,15 +447,15 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ending&lt;/strong&gt;: When someone listen when you talk about your death, roll +Cold. On a success they choose if they are Scared or Turned on. On a 10+ you gain a Cold string over them.&lt;/p&gt;
 
-&lt;h2 id=&#34;special-move-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move-2&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When someone lashes out at you, you can decide to be Turned On instead of Scared.&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self-2&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, whenever you ignore a feeding opportunity, you gain the condition Hurt instead of Uneasy. You escape your darkest self when you feed.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory-2:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory-2&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Someone smells like love. Give them 2 hot strings.&lt;/li&gt;
@@ -338,16 +464,16 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;the-queen:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;The Queen&lt;/h1&gt;
+&lt;h1 id=&#34;the-queen&#34;&gt;The Queen&lt;/h1&gt;
 
 &lt;p&gt;The queen is the leader of a clique of other youngsters. Their moves are about control and popularity. Their darkest self is about abusing power and trust.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats-3&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves-3&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;You get a Clique. It&amp;rsquo;s usually half a dozen close friends who look up at you.&lt;/p&gt;
 
@@ -396,15 +522,15 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;On a miss, they can ask you 3 questions. You must answer truthfully.&lt;/p&gt;
 
-&lt;h2 id=&#34;special-move-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move-3&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When you introduce someone to the clique, they become part of the clique.&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self-3&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, you can use Puppeteer without rolling dice, as if you made a 10+. You escape your darkest self when someone in your clique stands up against you.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory-3:3f3d94671251276eef6e1e1ec7926eda&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory-3&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;You really want someone to be part of your clique: Give them a hot string&lt;/li&gt;
@@ -425,7 +551,7 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;By putting the game under more stress we found a lot of things that weren&amp;rsquo;t working as intended. I&amp;rsquo;m calling this playtest a success.&lt;/p&gt;
 
-&lt;h2 id=&#34;characters:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Characters&lt;/h2&gt;
+&lt;h2 id=&#34;characters&#34;&gt;Characters&lt;/h2&gt;
 
 &lt;p&gt;We presented the characters once more, by adding the Ghost. It was tricky because her connection to the other characters relied entirely on her past.&lt;/p&gt;
 
@@ -433,19 +559,19 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;She said that she spied Ivan while he was sleeping and that Alec knows about her ghostly status.&lt;/p&gt;
 
-&lt;h2 id=&#34;first-scene:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;First scene&lt;/h2&gt;
+&lt;h2 id=&#34;first-scene&#34;&gt;First scene&lt;/h2&gt;
 
 &lt;p&gt;Another group scene, this time in the dining hall. Actually it was a collection of microscenes, because not everyone interacted at the same time.&lt;/p&gt;
 
-&lt;h3 id=&#34;caroline-ashley:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Caroline &amp;amp; Ashley&lt;/h3&gt;
+&lt;h3 id=&#34;caroline-ashley&#34;&gt;Caroline &amp;amp; Ashley&lt;/h3&gt;
 
 &lt;p&gt;We decided that it would be cool if Caroline was actually friends with Ashley, and it was a great opportunity for me to exploit a triangle. So I had her explain how frightened she was the last night because she saw something following her. Of course Alec was listening and recognized the shadow of the LongShadow. Caroline promised her to accompany her home that evening.&lt;/p&gt;
 
-&lt;h3 id=&#34;alec-morrigan:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Alec &amp;amp; Morrigan&lt;/h3&gt;
+&lt;h3 id=&#34;alec-morrigan&#34;&gt;Alec &amp;amp; Morrigan&lt;/h3&gt;
 
 &lt;p&gt;Alec and Morrigan were a LOT friendlier today. They chatted and &lt;strong&gt;made moves on&lt;/strong&gt; each other, until a failure left me the ball. I tried to introduce the hunger issue, by describing how a girl nearby was scared and she knew. In retrospect I should have done that sooner, and used the Hard Move to trigger her darkest self. It would have been more interesting.&lt;/p&gt;
 
-&lt;h3 id=&#34;ivan-terence:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Ivan &amp;amp; Terence&lt;/h3&gt;
+&lt;h3 id=&#34;ivan-terence&#34;&gt;Ivan &amp;amp; Terence&lt;/h3&gt;
 
 &lt;p&gt;Terence behaved a bit like an asshole. He provoked Ivan, threatened him with violence and death. Ivan was &lt;strong&gt;angry&lt;/strong&gt; and &lt;strong&gt;lashed out&lt;/strong&gt; at Terence before &lt;strong&gt;fleeing&lt;/strong&gt; at the sight of professor Wolf.&lt;/p&gt;
 
@@ -453,29 +579,29 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;We also discovered that the new Lash out move is bugged.&lt;/p&gt;
 
-&lt;h2 id=&#34;second-scene:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Second scene&lt;/h2&gt;
+&lt;h2 id=&#34;second-scene&#34;&gt;Second scene&lt;/h2&gt;
 
 &lt;p&gt;Morrigan left because she was &lt;strong&gt;Uneasy&lt;/strong&gt;, and brought Alec with her in an empty biology room. Unbeknownst to them Caroline followed them to spy on them. They &lt;strong&gt;made moves on&lt;/strong&gt; each other and started having sex, which funnily enough triggered the Ghost Special Move but not their own (they&amp;rsquo;re not triggered by sex anymore). Caroline was &lt;strong&gt;uneasy&lt;/strong&gt; and &lt;strong&gt;turned on&lt;/strong&gt;, and ran away making a scene.&lt;/p&gt;
 
-&lt;h2 id=&#34;third-scene:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Third scene&lt;/h2&gt;
+&lt;h2 id=&#34;third-scene&#34;&gt;Third scene&lt;/h2&gt;
 
 &lt;p&gt;Ivan and his clique are in the changing room, prepping for the match against Terence&amp;rsquo;s team. Ivan &lt;strong&gt;Gazed into the abyss&lt;/strong&gt; to know what to do with Morrigan, how to make her stay dead dead. The answer was simple enough: let her fear-starve for a week. Good luck with that. After that Andrew, shirtless, tried to get Ivan to talk about the match. Ivan rolled a failure with &lt;strong&gt;Streaming&lt;/strong&gt; and so I turned the move back on them. Andrew got the answers to &lt;em&gt;What&amp;rsquo;s your biggest dream&lt;/em&gt; (becoming a professional baseball player) and &lt;em&gt;What&amp;rsquo;s your greatest fear&lt;/em&gt; (his alien parents coming to take him away). Andrew reacted by hugging him and tell him that they will always be there for him. Ivan tried to &lt;em&gt;Make a Move on&lt;/em&gt; him but failed, so Andrew took a &lt;em&gt;Hot string&lt;/em&gt; on him.&lt;/p&gt;
 
 &lt;p&gt;It could seem that his clique love Ivan unconditionally, but we&amp;rsquo;re still in the early phases of the game. I&amp;rsquo;m trying to make their friendship look real before pushing. We&amp;rsquo;ll see how it will turn out.&lt;/p&gt;
 
-&lt;h2 id=&#34;fourth-scene:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Fourth scene&lt;/h2&gt;
+&lt;h2 id=&#34;fourth-scene&#34;&gt;Fourth scene&lt;/h2&gt;
 
 &lt;p&gt;Caroline and Ashley went clubbing (or tried to). Caroline tried to &lt;strong&gt;make a move on&lt;/strong&gt; the bouncer but failed, and she received a hail of insults from a girl who was waiting in line. Caroline then decided to &lt;strong&gt;lash the hell out&lt;/strong&gt; of her, but failed again. I asked if it was right, and I made Ashley stop Caroline before she even punched, pointing at the dark back alley and claiming to have seen the Longshadow. I tried to scare Caroline while she went forth to investigate, and she seemed to almost want to &lt;strong&gt;flee&lt;/strong&gt;, when Ivan arrived with the cavalry, sending away the Longshadow. Caroline flung herself in the arms of Ivan, removing the &lt;strong&gt;Uneasy&lt;/strong&gt; condition (Ivan counts as an easy relief). They walked Caroline and Ashley home.&lt;/p&gt;
 
-&lt;h2 id=&#34;fifth-scene:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Fifth scene&lt;/h2&gt;
+&lt;h2 id=&#34;fifth-scene&#34;&gt;Fifth scene&lt;/h2&gt;
 
 &lt;p&gt;Alec was celebrating his birthday at a restaurant with his father, Morrigan, Willow and Terence. Terence was sulky and talking shit about Ivan. Alec &lt;strong&gt;shut him down&lt;/strong&gt; and he shut up. Morrigan tried to let him talk, which he did, but Alec &lt;strong&gt;shut him down&lt;/strong&gt; again and Terence left, angry. Morrigan and Alec then started undressing each other with their eyes, until Caleb, the father, took Alec aside, reminding him that since Morrigan is dead she can&amp;rsquo;t bear children, and he MUST procreate, for the sake of the family and the city. The bloodline can&amp;rsquo;t end like this! Alec was positively &lt;strong&gt;hurt&lt;/strong&gt; and &lt;strong&gt;angry&lt;/strong&gt; from this.&lt;/p&gt;
 
-&lt;h2 id=&#34;sixth-scene-ish:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;Sixth scene-ish&lt;/h2&gt;
+&lt;h2 id=&#34;sixth-scene-ish&#34;&gt;Sixth scene-ish&lt;/h2&gt;
 
 &lt;p&gt;Ivan wanted to sneak into Alec&amp;rsquo;s house to retrieve info about Morrigan, so I asked Alec to come up with something interesting that Ivan could have found. He settled on Alec&amp;rsquo;s diary, which contained info also on Caroline. He then failed to &lt;strong&gt;flee&lt;/strong&gt;, so Alec and Caleb caught him red-handed, while we decided it was a good cliffhanger to stop the session.&lt;/p&gt;
 
-&lt;h2 id=&#34;from-the-gm-side:80f5d0261a42adad12d9b0e2e4c80033&#34;&gt;From the GM side&lt;/h2&gt;
+&lt;h2 id=&#34;from-the-gm-side&#34;&gt;From the GM side&lt;/h2&gt;
 
 &lt;p&gt;I tried to apply a different strategy from other Monsterhearts games. I tried to elicit emotional responses from the characters, then asked them How did they feel. They gained conditions from this, which prompted them to act.&lt;/p&gt;
 
@@ -495,12 +621,12 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;The ghost is lonely and spooky. Their moves are about alienating others. Their darkest self is about craving and obtaining attention.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats:8c5bdc95df153d40871ba850e4ce1f06&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves:8c5bdc95df153d40871ba850e4ce1f06&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;You get:&lt;/p&gt;
 
@@ -531,15 +657,15 @@ Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Dead people can&amp;rsquo;t keep secrets&lt;/strong&gt;: You can spend a Cold string on someone to ask them to reveal a secret of them. If you use it to Shut them Down, you add+1 to your roll.&lt;/p&gt;
 
-&lt;h2 id=&#34;special-move:8c5bdc95df153d40871ba850e4ce1f06&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When you secretly witness someone in their most intimate moments, perhaps showering or sleeping, gain a Hot String on them.&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self:8c5bdc95df153d40871ba850e4ce1f06&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, no one can see you, feel you, or hear you. You can still move small inanimate objects. When someone acknowledge your presence, they choose if they are Uneasy or Afraid. You escape your darkest self when someone gives you the attention you deserve.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory:8c5bdc95df153d40871ba850e4ce1f06&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Someone knows you&amp;rsquo;re dead. They gain a cold string over you.&lt;/li&gt;
@@ -558,9 +684,9 @@ Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
 &lt;p&gt;Yesterday we had our first playtest session for Turmoil. I usually consider a playtest successful if it highlights problems that the rules create or can&amp;rsquo;t go around it. Given that it&amp;rsquo;s a campaign game, most of the problems will probably come out later. I asked the players if the game ran like Monstehearts. I received a yes, a no, and a non-committal shrug. It&amp;rsquo;s probably too early to know for sure.&lt;/p&gt;
 
-&lt;h2 id=&#34;characters:7d3142770a53b8f8187855b9b7e6de3f&#34;&gt;Characters&lt;/h2&gt;
+&lt;h2 id=&#34;characters&#34;&gt;Characters&lt;/h2&gt;
 
-&lt;p&gt;We made the characters in chat before the actual hangout, where we created the backgrounds. We play in the pictoresque &lt;a href=&#34;https://upload.wikimedia.org/wikipedia/commons/e/e3/London_Bridge,_Lake_Havasu_City_-_2011_(Aerial_Photo&#34;&gt;Lake Havasu City&lt;/a&gt;.jpg) with Ivan the Queen, Alec the Chosen, and Morrigan the Ghoul.&lt;/p&gt;
+&lt;p&gt;We made the characters in chat before the actual hangout, where we created the backgrounds. We play in the pictoresque &lt;a href=&#34;https://upload.wikimedia.org/wikipedia/commons/e/e3/London_Bridge,_Lake_Havasu_City_-_2011_(Aerial_Photo).jpg&#34;&gt;Lake Havasu City&lt;/a&gt; with Ivan the Queen, Alec the Chosen, and Morrigan the Ghoul.&lt;/p&gt;
 
 &lt;p&gt;Ivan has a clique of few trusted people who play in his own baseball team (interestingly it&amp;rsquo;s a mixed gender team). They can protect themselves (bats) but they are different from him: he is milky white with blond hair, while they have darker skins and hair. Ivan wants Morrigan in his clique very bad, while thinks Alec is a threat to his status.&lt;/p&gt;
 
@@ -568,33 +694,33 @@ Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
 &lt;p&gt;Morrigan was one of the helpers of Alec&amp;rsquo;s family before dying in a bad fire, the same incident who caused Alec&amp;rsquo;s father to lose the use of his legs. Ivan and his clique disturbed her eternal sleep and now she&amp;rsquo;s back on earth craving fear and wanting to die for good. She thinks Alec smells like love.&lt;/p&gt;
 
-&lt;h2 id=&#34;first-scene:7d3142770a53b8f8187855b9b7e6de3f&#34;&gt;First scene&lt;/h2&gt;
+&lt;h2 id=&#34;first-scene&#34;&gt;First scene&lt;/h2&gt;
 
 &lt;p&gt;So, we forgot to highlight the stats (of course) and we went on with the first scene. In the classroom, where they were seeing a bad wildfire prevention PSA from a long time before (jokes jokes jokes). The professor didn&amp;rsquo;t care what they did, so Morrigan tried to talk to Alec, who &lt;em&gt;Shut her down&lt;/em&gt;. Hard. Like three times. First Morrigan was &lt;em&gt;Hurt&lt;/em&gt;, then Alec failed. My move was to introduce Ashley, a wannabe cheerleader with a caustic tongue. She shut Morrigan down (note that this wasn&amp;rsquo;t a move with dice). Morrigan decided to enter her &lt;em&gt;Darkest Self&lt;/em&gt; to clear her &lt;em&gt;Hurt&lt;/em&gt; condition, and to &lt;em&gt;Lash out&lt;/em&gt;, scaring the hell out of her, feeding and escaping her darkest self.&lt;/p&gt;
 
 &lt;p&gt;It was a very quick darkest self. I&amp;rsquo;m not sure if that&amp;rsquo;s how I intended it to work. Maybe change the escape condition to something like &amp;ldquo;When you feel ashamed of what you&amp;rsquo;ve done&amp;rdquo;?&lt;/p&gt;
 
-&lt;h2 id=&#34;second-scene:7d3142770a53b8f8187855b9b7e6de3f&#34;&gt;Second scene&lt;/h2&gt;
+&lt;h2 id=&#34;second-scene&#34;&gt;Second scene&lt;/h2&gt;
 
 &lt;p&gt;Alec tried to intervene by grabbing Morrigan. Morrigan used her &lt;em&gt;Ending&lt;/em&gt; move to talk about her death, making him &lt;em&gt;Uneasy&lt;/em&gt;. Alec decided to flee. Ivan and Morrigan were left alone and started &lt;em&gt;Shutting themselves down&lt;/em&gt; and making themselves &lt;em&gt;Angry&lt;/em&gt;. They couldn&amp;rsquo;t flee because of the condition. Morrigan punched Ivan in the face. She failed. I said that Ivan received a punch, and was &lt;em&gt;Hurt&lt;/em&gt;. In the meantime I introduced the professor Wolf, who thundered to Morrigan to go to the Principal. Morrigan removed the &lt;em&gt;Angry&lt;/em&gt; condition.&lt;/p&gt;
 
 &lt;p&gt;It was a very weak move. I sent her to the principal but then I didn&amp;rsquo;t follow up on it.&lt;/p&gt;
 
-&lt;h2 id=&#34;third-scene:7d3142770a53b8f8187855b9b7e6de3f&#34;&gt;Third scene&lt;/h2&gt;
+&lt;h2 id=&#34;third-scene&#34;&gt;Third scene&lt;/h2&gt;
 
 &lt;p&gt;We followed Alec going home at night. I introduced a threat in the shape of a tall shadow monster, who vanished when he boldly threathened him. He went home to &lt;em&gt;Gaze into the abyss&lt;/em&gt; to get info about it.&lt;/p&gt;
 
-&lt;h2 id=&#34;fourth-scene:7d3142770a53b8f8187855b9b7e6de3f&#34;&gt;Fourth scene&lt;/h2&gt;
+&lt;h2 id=&#34;fourth-scene&#34;&gt;Fourth scene&lt;/h2&gt;
 
 &lt;p&gt;Ivan was at a training session. He was still Angry, so I said that he probably wasn&amp;rsquo;t performing so well. The coach said to him to go home. He &lt;em&gt;Manipulated him with a promise&lt;/em&gt; convincing him he&amp;rsquo;ll win the match. The coach said ok, but you&amp;rsquo;ll have to show some control in the session. He &lt;em&gt;bottled the anger&lt;/em&gt; and managed to do well.&lt;/p&gt;
 
 &lt;p&gt;I was thinking about this. There&amp;rsquo;s no Keep your Cool move or Act Under Fire, so I wasn&amp;rsquo;t sure how to handle this. And I still don&amp;rsquo;t know.&lt;/p&gt;
 
-&lt;h2 id=&#34;fifth-scene:7d3142770a53b8f8187855b9b7e6de3f&#34;&gt;Fifth scene&lt;/h2&gt;
+&lt;h2 id=&#34;fifth-scene&#34;&gt;Fifth scene&lt;/h2&gt;
 
 &lt;p&gt;Morrigan decided to visit Caleb, who didn&amp;rsquo;t know she was back from the dead. He greeted her with a loaded shotgun, but didn&amp;rsquo;t shoot when she came closer talking about her death and activating the &lt;em&gt;Ending&lt;/em&gt; move. He was scared, though, and it showed. She decided to change tactic and she kissed him &lt;em&gt;Making a Move&lt;/em&gt; on him. He started crying saying it was all his fault, that he didn&amp;rsquo;t try his best to save her. He told her she&amp;rsquo;d better go away.&lt;/p&gt;
 
-&lt;h2 id=&#34;sixth-scene:7d3142770a53b8f8187855b9b7e6de3f&#34;&gt;Sixth scene&lt;/h2&gt;
+&lt;h2 id=&#34;sixth-scene&#34;&gt;Sixth scene&lt;/h2&gt;
 
 &lt;p&gt;I wanted to see some Alec and willow action, so I framed a scene at Willow&amp;rsquo;s home, at dinner. Willow&amp;rsquo;s mom is shipping the two of them, but they only talked about how to drive the LongShadow out of town. They resolved to seek out a witch.&lt;/p&gt;
 
@@ -616,12 +742,12 @@ Hot -1, Cold 1, Volatile -1, Dark 1&lt;/p&gt;
 
 &lt;p&gt;The queen is the leader of a clique of other youngsters. Their moves are about control and popularity. Their darkest self is about abusing power and trust.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats:019218eaf65e751d3bb49f511f25d18b&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves:019218eaf65e751d3bb49f511f25d18b&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;You get a Clique. It&amp;rsquo;s usually half a dozen close friends who look up at you.&lt;/p&gt;
 
@@ -670,15 +796,15 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;On a miss, they can ask you 3 questions. You must answer truthfully.&lt;/p&gt;
 
-&lt;h2 id=&#34;special-move:019218eaf65e751d3bb49f511f25d18b&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When you introduce someone to the clique, they become part of the clique.&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self:019218eaf65e751d3bb49f511f25d18b&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, you can use Puppeteer without rolling dice, as if you made a 10+. You escape your darkest self when someone in your clique stands up against you.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory:019218eaf65e751d3bb49f511f25d18b&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;You really want someone to be part of your clique: Give them a hot string&lt;/li&gt;
@@ -697,12 +823,12 @@ Hot 1, Cold 1, Volatile -1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;The ghoul is a monster that feels the urge to feed constantly of flesh, fear or chaos. Their moves are about morbidity and death. Their darkest self is about fighting the temptations.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats:187e5027dd65d67127638505ec865d41&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves:187e5027dd65d67127638505ec865d41&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;Choose 2:&lt;/p&gt;
 
@@ -716,15 +842,15 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ending&lt;/strong&gt;: When someone listen when you talk about your death, roll +Cold. On a success they choose if they are Scared or Turned on. On a 10+ you gain a Cold string over them.&lt;/p&gt;
 
-&lt;h2 id=&#34;special-move:187e5027dd65d67127638505ec865d41&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When someone lashes out at you, you can decide to be Turned On instead of Scared.&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self:187e5027dd65d67127638505ec865d41&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, whenever you ignore a feeding opportunity, your victim takes a Cold string on you. You escape your darkest self when you feed.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory:187e5027dd65d67127638505ec865d41&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Someone smells like love. Give them 2 hot strings.&lt;/li&gt;
@@ -743,12 +869,12 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;The chosen is someone with great powers and a duty to fight evil. Their moves are about doing what&amp;rsquo;s necessary and steel themselves against hardships. Their darkest self is about refusing help and carry the weight of their responsibility alone.&lt;/p&gt;
 
-&lt;h2 id=&#34;stats:eb106ce578625776e086307f4ada4a20&#34;&gt;Stats&lt;/h2&gt;
+&lt;h2 id=&#34;stats&#34;&gt;Stats&lt;/h2&gt;
 
 &lt;p&gt;Add 1 to one of these:
 Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
-&lt;h2 id=&#34;moves:eb106ce578625776e086307f4ada4a20&#34;&gt;Moves&lt;/h2&gt;
+&lt;h2 id=&#34;moves&#34;&gt;Moves&lt;/h2&gt;
 
 &lt;p&gt;Choose 2:&lt;/p&gt;
 
@@ -777,15 +903,15 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 &lt;li&gt;You aren&amp;rsquo;t uneasy.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;special-move:eb106ce578625776e086307f4ada4a20&#34;&gt;Special move&lt;/h2&gt;
+&lt;h2 id=&#34;special-move&#34;&gt;Special move&lt;/h2&gt;
 
 &lt;p&gt;When someone else attends to your injuries, they take a Hot string over you&lt;/p&gt;
 
-&lt;h2 id=&#34;darkest-self:eb106ce578625776e086307f4ada4a20&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;While you are in your darkest self, as long as you&amp;rsquo;re on your own, you can&amp;rsquo;t be scared or uneasy. You escape your darkest self when there&amp;rsquo;s no more danger.&lt;/p&gt;
 
-&lt;h2 id=&#34;backstory:eb106ce578625776e086307f4ada4a20&#34;&gt;Backstory&lt;/h2&gt;
+&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;You have to friends you can rely on for monster-slaying support. Name them and take a Cold string or a Hot string over them (your choice)&lt;/li&gt;
@@ -808,7 +934,7 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;BE WARY: THIS IS NOT THE SECOND EDITION OF MONSTERHEARTS AND THIS CONTENT IS JUST FAN CONTENT&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;conditions:698e58a815953b650f646ce2d71b8858&#34;&gt;Conditions&lt;/h2&gt;
+&lt;h2 id=&#34;conditions&#34;&gt;Conditions&lt;/h2&gt;
 
 &lt;p&gt;Conditions are completely different from Monsterhearts. I liked the idea of conditions that weakened you such as in masks, but I wanted them more crippling. The characters don&amp;rsquo;t really know how to manage them, so they are big obstacles.&lt;/p&gt;
 
@@ -828,7 +954,7 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;While you are uneasy&lt;/strong&gt; you can&amp;rsquo;t make a move on someone or shut someone down. To remove it flee or fling yourself into easy relief.&lt;/p&gt;
 
-&lt;h2 id=&#34;basic-moves:698e58a815953b650f646ce2d71b8858&#34;&gt;Basic moves&lt;/h2&gt;
+&lt;h2 id=&#34;basic-moves&#34;&gt;Basic moves&lt;/h2&gt;
 
 &lt;p&gt;Most of the basic moves are used to provoke the other character into feeling something, while other are used to change the fictional positioning of the character.&lt;/p&gt;
 
@@ -876,7 +1002,7 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 &lt;li&gt;you are not uneasy when it&amp;rsquo;s finished.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;strings:698e58a815953b650f646ce2d71b8858&#34;&gt;Strings&lt;/h2&gt;
+&lt;h2 id=&#34;strings&#34;&gt;Strings&lt;/h2&gt;
 
 &lt;p&gt;There are two kind of strings, used to influence people in different ways. You can spend them as currency to make the actions against the people who gave you the string.&lt;/p&gt;
 
@@ -908,7 +1034,7 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;darkest-self:698e58a815953b650f646ce2d71b8858&#34;&gt;Darkest self&lt;/h2&gt;
+&lt;h2 id=&#34;darkest-self&#34;&gt;Darkest self&lt;/h2&gt;
 
 &lt;p&gt;The darkest self is a Condition unique to a certain Skin, that changes the rules making it easier to behave in a certain manner.&lt;/p&gt;
 
@@ -918,7 +1044,7 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Werewolf&lt;/strong&gt;. While you are your darkest self you choose whether someone is hurt or afraid when you lash out. When you make a move on someone the option &amp;ldquo;uneasy&amp;rdquo; is replaced with &amp;ldquo;afraid&amp;rdquo;.&lt;/p&gt;
 
-&lt;h2 id=&#34;special-moves:698e58a815953b650f646ce2d71b8858&#34;&gt;Special moves&lt;/h2&gt;
+&lt;h2 id=&#34;special-moves&#34;&gt;Special moves&lt;/h2&gt;
 
 &lt;p&gt;Special moves describe the messy relationship a Skin has with others. It may involve sex or romance or whatever interpretation the player gives.&lt;/p&gt;
 
@@ -948,7 +1074,7 @@ Hot -1, Cold 1, Volatile 1, Dark -1&lt;/p&gt;
 
 &lt;p&gt;They&amp;rsquo;re like gloves, that allows you to touch itchy and stinging things without hurting yourself.&lt;/p&gt;
 
-&lt;h2 id=&#34;character-creation:4ac0809d47c4812a55ed4bc28804dd35&#34;&gt;Character creation&lt;/h2&gt;
+&lt;h2 id=&#34;character-creation&#34;&gt;Character creation&lt;/h2&gt;
 
 &lt;p&gt;Most games have a character creation phase, where you build the characters you will roleplay. When you act out a role your brain doesn&amp;rsquo;t know you are just playing, and it will respond to external stimuli in pretty much the same way. This means that you can easily feel the emotions of your character.&lt;/p&gt;
 
@@ -964,11 +1090,11 @@ Playing someone who grew up in a different culture or experienced different thin
 Be respectful, though.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;during-play:4ac0809d47c4812a55ed4bc28804dd35&#34;&gt;During play&lt;/h2&gt;
+&lt;h2 id=&#34;during-play&#34;&gt;During play&lt;/h2&gt;
 
 &lt;p&gt;This is where the gloves can be tuned moment-to-moment. It takes a while to train yourself to change them but it&amp;rsquo;s worth it.&lt;/p&gt;
 
-&lt;h3 id=&#34;behaviour:4ac0809d47c4812a55ed4bc28804dd35&#34;&gt;Behaviour&lt;/h3&gt;
+&lt;h3 id=&#34;behaviour&#34;&gt;Behaviour&lt;/h3&gt;
 
 &lt;p&gt;The way you make your character act is a good way to tune the thickness of the gloves. If your character acts in a way similar to how you would in the same situation, the gloves thin themselves. Conversely, if they act in a different way, the gloves thicken.&lt;/p&gt;
 
@@ -980,7 +1106,7 @@ Be respectful, though.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Bad choice&lt;/strong&gt;. I&amp;rsquo;m at a convention and I&amp;rsquo;m anxious because of all the people. I decide I&amp;rsquo;ll make the character be scared and saying incoherent stuff. The gloves thin and I start feeling more anxious and panicky. (this actually happened once)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;first-and-third-person-speech:4ac0809d47c4812a55ed4bc28804dd35&#34;&gt;First and third person speech&lt;/h3&gt;
+&lt;h3 id=&#34;first-and-third-person-speech&#34;&gt;First and third person speech&lt;/h3&gt;
 
 &lt;p&gt;Talking in third person helps you thicken the gloves. Talking in first person thin them. It&amp;rsquo;s as simple as that.&lt;/p&gt;
 
@@ -992,7 +1118,7 @@ Be respectful, though.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Bad choice&lt;/strong&gt;. I had an incident and I still blame myself for it. During the act I actually feel so bad it&amp;rsquo;s not fun anymore.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;touch:4ac0809d47c4812a55ed4bc28804dd35&#34;&gt;Touch&lt;/h3&gt;
+&lt;h3 id=&#34;touch&#34;&gt;Touch&lt;/h3&gt;
 
 &lt;p&gt;Touching other players can thin the gloves for both you and them, so be careful. Some people don&amp;rsquo;t like to be touched, so maybe ask them beforehand.&lt;/p&gt;
 
@@ -1004,7 +1130,7 @@ Be respectful, though.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Bad choice&lt;/strong&gt;. I grab the wrist without asking permission, making the other player uncomfortable.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;conclusion:4ac0809d47c4812a55ed4bc28804dd35&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;By knowing and using these techniques you help making your game safer for you and the people you play with. Sometimes it&amp;rsquo;s enough to know that they exist, even if you don&amp;rsquo;t use them.&lt;/p&gt;
 </description>
